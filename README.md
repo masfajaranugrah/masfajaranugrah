@@ -17,11 +17,3 @@ Halo, nama saya adalah fajar anugrah. Saya adalah seorang backend developer yang
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcheezburger.com%2F6349573%2F20-programming-memes-thatll-trigger-any-developer&psig=AOvVaw2hqNjg4JAyNpsn5QWNomBx&ust=1673941960945000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODY-_HNy_wCFQAAAAAdAAAAABAK" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=masfajaranugrah&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
