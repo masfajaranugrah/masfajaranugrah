@@ -1,6 +1,6 @@
-## Hi 👋, I'm Zul!
+## Hi 👋, I'm Fajar anugah!
 
-![ReadmeBox]((https://github.com/masfajaranugrah/masfajaranugrah/blob/main/massfajaranugrah.svg))
+![ReadmeBox](https://github.com/masfajaranugrah/masfajaranugrah/blob/main/massfajaranugrah.svg)
 
 ### About Me
 - 🌱 I'm currently learning NestJS.
