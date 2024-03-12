@@ -1,4 +1,4 @@
-## Hi  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Fajar anugah!
+## Hi  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Fajar anugrah!
 
 ![ReadmeBox](https://github.com/masfajaranugrah/masfajaranugrah/blob/main/massfajaranugrah.svg)
 
