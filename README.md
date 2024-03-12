@@ -13,4 +13,4 @@
 ### Tools
 ![My Tools](https://skillicons.dev/icons?i=vscode,git,postman)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masfajaranugrah&layout=compact)
